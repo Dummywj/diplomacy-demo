@@ -1,0 +1,1 @@
+A mini demo using Diplomacy. 

@@ -1,0 +1,7 @@
+[submodule "deps/cde"]
+	path = deps/cde
+	url = https://github.com/chipsalliance/cde.git
+[submodule "deps/diplomacy"]
+	path = deps/diplomacy
+	url = https://github.com/chipsalliance/diplomacy.git
+	branch = master
