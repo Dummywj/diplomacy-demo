@@ -1,7 +1,7 @@
-[submodule "deps/cde"]
-	path = deps/cde
+[submodule "cde"]
+	path = cde
 	url = https://github.com/chipsalliance/cde.git
-[submodule "deps/diplomacy"]
-	path = deps/diplomacy
+[submodule "diplomacy"]
+	path = diplomacy
 	url = https://github.com/chipsalliance/diplomacy.git
 	branch = master
